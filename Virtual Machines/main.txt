@@ -1,0 +1,4 @@
+Wazuh-manager (ubuntu 22.04)
+Wazuh-agent1 (ubuntu 22.04)
+Wazuh-agent2 (window 10)
+Attacker (kali linux)
